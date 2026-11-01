@@ -5,9 +5,9 @@
   <remote name="lineage" fetch="https://github.com/LineageOS" clone-depth="1" />
 
   <!-- Projects -->
-  <project path="device/nothing/Galaga" name="android_device_nothing_Galaga" remote="galaga" revision="lineage-23.2" />
+  <project path="device/nothing/Galaga" name="android_device_nothing_Galaga" remote="galaga" revision="luna" />
   <project path="device/nothing/Galaga-kernel" name="android_device_nothing_Galaga-kernel" remote="galaga" revision="lineage-23.2" />
-  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="lineage" revision="lineage-23.2" />
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="galaga" revision="lineage-23.2" />
   <project path="hardware/mediatek" name="android_hardware_mediatek" remote="lineage" revision="lineage-23.2" />
   <project path="vendor/nothing/Galaga" name="android_vendor_nothing_Galaga" remote="galaga" revision="lineage-23.2" />
 
